@@ -1,0 +1,6 @@
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\bin\Debug\IterativeCodeCondole.exe.config
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\bin\Debug\IterativeCodeCondole.exe
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\bin\Debug\IterativeCodeCondole.pdb
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\obj\Debug\IterativeCodeCondole.csprojResolveAssemblyReference.cache
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\obj\Debug\IterativeCodeCondole.exe
+C:\Users\Peter68\Documents\Visual Studio 2013\Projects\IterativeCodeCondole\IterativeCodeCondole\obj\Debug\IterativeCodeCondole.pdb
